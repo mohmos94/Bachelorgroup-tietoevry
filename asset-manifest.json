@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5a85c4c9.css",
-    "main.js": "/react-gh-pages/static/js/main.a3c44468.js",
-    "static/js/787.28a8626a.chunk.js": "/react-gh-pages/static/js/787.28a8626a.chunk.js",
-    "static/media/Mostafa.png": "/react-gh-pages/static/media/Mostafa.ffcb02e49ed78d3d48d6.png",
-    "static/media/tietoevry.png": "/react-gh-pages/static/media/tietoevry.7d2407a9c0aa08ae9d78.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.5a85c4c9.css.map": "/react-gh-pages/static/css/main.5a85c4c9.css.map",
-    "main.a3c44468.js.map": "/react-gh-pages/static/js/main.a3c44468.js.map",
-    "787.28a8626a.chunk.js.map": "/react-gh-pages/static/js/787.28a8626a.chunk.js.map"
+    "main.css": "/Bachelorgroup-tietoevry/static/css/main.5a85c4c9.css",
+    "main.js": "/Bachelorgroup-tietoevry/static/js/main.254fe820.js",
+    "static/js/787.28a8626a.chunk.js": "/Bachelorgroup-tietoevry/static/js/787.28a8626a.chunk.js",
+    "static/media/Mostafa.png": "/Bachelorgroup-tietoevry/static/media/Mostafa.ffcb02e49ed78d3d48d6.png",
+    "static/media/tietoevry.png": "/Bachelorgroup-tietoevry/static/media/tietoevry.7d2407a9c0aa08ae9d78.png",
+    "index.html": "/Bachelorgroup-tietoevry/index.html",
+    "main.5a85c4c9.css.map": "/Bachelorgroup-tietoevry/static/css/main.5a85c4c9.css.map",
+    "main.254fe820.js.map": "/Bachelorgroup-tietoevry/static/js/main.254fe820.js.map",
+    "787.28a8626a.chunk.js.map": "/Bachelorgroup-tietoevry/static/js/787.28a8626a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a85c4c9.css",
-    "static/js/main.a3c44468.js"
+    "static/js/main.254fe820.js"
   ]
 }
